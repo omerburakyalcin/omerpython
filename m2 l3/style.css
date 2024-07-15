@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif; /* Yazı tipi ailesi */
+    font-size: 11px; /* <p></p> etiketindeki ana yazının boyutu */
+    background-color: #9c909a; /* Web sayfasının arka plan rengi */
+    color: #aea0a0; /* Metin rengi */
+}
+
+h1 {
+    color: #000000; /* Başlık rengi */
+    font-size: 80px; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+h2 {
+    color: #ab3131; /* Başlık rengi */
+    font-size: 50px; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+h3 {
+    color: #e5ff00; /* Başlık rengi */
+    font-size: 50px; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+
+h4 {
+    color: #0000ff; /* Başlık rengi */
+    font-size: 50px; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+
+h5 {
+
+    color: #004472; /* Başlık rengi */
+    font-size: 50px; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+
+h6 {
+    color: #0c667e; /* Başlık rengi */
+    font-size: 50px; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+
+p {
+    color: #00ff40; /* Başlık rengi */
+    font-size: 35px; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
